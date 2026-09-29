@@ -3,6 +3,8 @@
 An AI-powered job recommendation system that suggests suitable job roles based on user skills using Machine Learning techniques.
 
 ---
+🔗 **Live Demo:** https://ai-job-recommendation-system-krvsq8rjdz5cxvnrrdzasz.streamlit.app/
+
 
 ## Project Overview
 
